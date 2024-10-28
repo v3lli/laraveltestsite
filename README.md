@@ -16,7 +16,14 @@ you won't need much to test the functionalities in the brief.
 As for the routes in the brief
 
 |        | POST     | api/websites/{website}/posts         |      |  Add a Post to a certain website 
-|        | POST     | api/websites/{website}/subscriptions |      |  Add a Subscriber to a certain website      
+|        | POST     | api/websites/{website}/subscriptions |      |  Add a Subscriber to a certain website  
+
+
+
+Side note: I implemented this using sqlite but it will also work with MySQL as I have added the database file in te project
+just in case you run into any trouble setting up MySQL
+
+It was really a pleasure, I enjoyed every minute of hacking away at this .  
 
 
 
